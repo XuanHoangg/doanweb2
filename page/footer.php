@@ -9,8 +9,8 @@
                         </div>
                         <ul>
                             <li>Địa chỉ: 273 An Dương Vương Phường 2 Quận 5</li>
-                            <li>Số điện thoại: 0934827457</li>
-                            <li>Thư điện tử: kidcher1415@gmail.com</li>
+                            <li>Số điện thoại: 0123456789</li>
+                            <li>Thư điện tử: xhoang@gmail.com</li>
                         </ul>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/thongpacom"><i class="fa-brands fa-facebook"></i></i></a>

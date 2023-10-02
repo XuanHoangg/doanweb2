@@ -15,7 +15,7 @@
     }
     public function addProductonCart($productID){
         Session::init();
-        include "../Model/CartModel.php";
+        include "../Mode/CartModel.php";
         $UserID=Session::get("ID_User_login");
         if(!$UserID){
             $modal = new Modal();
